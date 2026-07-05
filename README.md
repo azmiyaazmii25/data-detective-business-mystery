@@ -169,6 +169,8 @@ streamlit run streamlit_app/app.py
 ## 👨‍💻 Author
 
 **Azmiya**
-*Data Analytics | Python | Streamlit | Tableau*
+
+*
+Data Analytics | Python | Streamlit | Tableau*
 
 🔗 [LinkedIn](your-linkedin-url-here) &nbsp;|&nbsp; 💻 [GitHub](your-github-url-here)
