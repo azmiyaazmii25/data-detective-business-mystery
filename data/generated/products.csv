@@ -1,0 +1,201 @@
+ProductID,ProductName,Category,Price,Cost
+1,Product 1,Electronics,18459,17200
+2,Product 2,Electronics,25114,2132
+3,Product 3,Clothing,20289,13622
+4,Product 4,Kitchen,9997,8359
+5,Product 5,Electronics,49442,9221
+6,Product 6,Clothing,17643,18383
+7,Product 7,Home Appliances,46331,13129
+8,Product 8,Clothing,34457,13060
+9,Product 9,Home Appliances,5844,25759
+10,Product 10,Home Appliances,36917,13954
+11,Product 11,Kitchen,344,16799
+12,Product 12,Clothing,35898,22825
+13,Product 13,Kitchen,8559,28984
+14,Product 14,Kitchen,19741,6777
+15,Product 15,Clothing,27633,29002
+16,Product 16,Electronics,1221,13757
+17,Product 17,Home Appliances,29448,28731
+18,Product 18,Kitchen,20512,5874
+19,Product 19,Home Appliances,14413,22861
+20,Product 20,Clothing,13570,9695
+21,Product 21,Clothing,20156,18636
+22,Product 22,Kitchen,47996,13414
+23,Product 23,Home Appliances,15838,26633
+24,Product 24,Clothing,1012,19639
+25,Product 25,Clothing,40171,13539
+26,Product 26,Kitchen,10885,5949
+27,Product 27,Home Appliances,3054,5920
+28,Product 28,Home Appliances,36031,20233
+29,Product 29,Kitchen,28924,8373
+30,Product 30,Kitchen,26006,29477
+31,Product 31,Electronics,48866,3930
+32,Product 32,Clothing,14908,29474
+33,Product 33,Accessories,11515,22918
+34,Product 34,Accessories,44910,14125
+35,Product 35,Clothing,49451,27884
+36,Product 36,Accessories,32198,1732
+37,Product 37,Clothing,11753,16239
+38,Product 38,Home Appliances,25323,29653
+39,Product 39,Kitchen,20559,16463
+40,Product 40,Home Appliances,28299,10049
+41,Product 41,Accessories,33172,8048
+42,Product 42,Accessories,47256,22942
+43,Product 43,Clothing,49768,27152
+44,Product 44,Clothing,44026,3725
+45,Product 45,Clothing,32268,2021
+46,Product 46,Home Appliances,37339,29717
+47,Product 47,Clothing,3551,12519
+48,Product 48,Clothing,12111,15899
+49,Product 49,Accessories,23905,13429
+50,Product 50,Electronics,19187,13888
+51,Product 51,Electronics,41093,27780
+52,Product 52,Accessories,29494,17885
+53,Product 53,Clothing,6544,28337
+54,Product 54,Kitchen,9684,28668
+55,Product 55,Clothing,1034,14992
+56,Product 56,Kitchen,11322,14954
+57,Product 57,Electronics,46595,5591
+58,Product 58,Kitchen,7363,7300
+59,Product 59,Kitchen,40439,10921
+60,Product 60,Accessories,12577,15237
+61,Product 61,Electronics,29080,16191
+62,Product 62,Home Appliances,14118,9999
+63,Product 63,Accessories,25188,21643
+64,Product 64,Home Appliances,20185,29976
+65,Product 65,Clothing,47885,11837
+66,Product 66,Accessories,41674,14315
+67,Product 67,Kitchen,45963,5238
+68,Product 68,Electronics,43900,11558
+69,Product 69,Accessories,4038,28956
+70,Product 70,Accessories,46913,29651
+71,Product 71,Home Appliances,17367,5732
+72,Product 72,Kitchen,27599,26876
+73,Product 73,Accessories,15091,13772
+74,Product 74,Electronics,1199,8850
+75,Product 75,Home Appliances,39120,8334
+76,Product 76,Clothing,42910,22216
+77,Product 77,Electronics,10435,8398
+78,Product 78,Electronics,15051,20533
+79,Product 79,Home Appliances,44784,2896
+80,Product 80,Home Appliances,18646,10352
+81,Product 81,Kitchen,17747,20705
+82,Product 82,Electronics,49075,15158
+83,Product 83,Kitchen,30923,2423
+84,Product 84,Home Appliances,11028,17791
+85,Product 85,Clothing,43661,22934
+86,Product 86,Kitchen,8965,17270
+87,Product 87,Home Appliances,10376,15997
+88,Product 88,Clothing,24074,25375
+89,Product 89,Clothing,43752,3783
+90,Product 90,Clothing,13846,1213
+91,Product 91,Clothing,12282,21263
+92,Product 92,Kitchen,26466,18464
+93,Product 93,Electronics,1862,18184
+94,Product 94,Clothing,20072,4255
+95,Product 95,Accessories,15043,3046
+96,Product 96,Clothing,48525,11045
+97,Product 97,Electronics,19731,19261
+98,Product 98,Accessories,26688,5559
+99,Product 99,Home Appliances,40357,4106
+100,Product 100,Electronics,27578,10559
+101,Product 101,Accessories,49338,8217
+102,Product 102,Clothing,11239,17104
+103,Product 103,Home Appliances,33324,27668
+104,Product 104,Clothing,28820,11370
+105,Product 105,Clothing,44591,5019
+106,Product 106,Electronics,37984,10957
+107,Product 107,Accessories,26145,23129
+108,Product 108,Electronics,40415,2883
+109,Product 109,Home Appliances,49049,3302
+110,Product 110,Clothing,4023,23448
+111,Product 111,Kitchen,41543,18178
+112,Product 112,Electronics,6762,1541
+113,Product 113,Home Appliances,17092,8364
+114,Product 114,Clothing,49893,15093
+115,Product 115,Kitchen,41503,5250
+116,Product 116,Clothing,540,25209
+117,Product 117,Clothing,47657,27396
+118,Product 118,Accessories,14155,28970
+119,Product 119,Kitchen,14367,5785
+120,Product 120,Clothing,20827,14248
+121,Product 121,Electronics,44599,9615
+122,Product 122,Electronics,48559,14688
+123,Product 123,Home Appliances,45591,16744
+124,Product 124,Home Appliances,2190,17128
+125,Product 125,Electronics,46651,14138
+126,Product 126,Clothing,23706,27634
+127,Product 127,Home Appliances,42947,15880
+128,Product 128,Kitchen,34047,8306
+129,Product 129,Electronics,26536,3843
+130,Product 130,Clothing,39277,21188
+131,Product 131,Kitchen,16802,18379
+132,Product 132,Accessories,41852,13500
+133,Product 133,Kitchen,26554,14397
+134,Product 134,Electronics,5030,16058
+135,Product 135,Home Appliances,29694,1947
+136,Product 136,Home Appliances,9327,25108
+137,Product 137,Clothing,32613,12659
+138,Product 138,Electronics,24462,3608
+139,Product 139,Accessories,29673,16342
+140,Product 140,Clothing,15944,18254
+141,Product 141,Electronics,36368,20447
+142,Product 142,Home Appliances,9792,28838
+143,Product 143,Accessories,32713,18315
+144,Product 144,Accessories,32802,15231
+145,Product 145,Home Appliances,20380,26940
+146,Product 146,Accessories,12303,11717
+147,Product 147,Electronics,15895,12976
+148,Product 148,Kitchen,11084,28899
+149,Product 149,Electronics,46931,11441
+150,Product 150,Kitchen,46847,27029
+151,Product 151,Electronics,37324,3091
+152,Product 152,Home Appliances,37955,19092
+153,Product 153,Electronics,15822,7276
+154,Product 154,Electronics,38029,19502
+155,Product 155,Accessories,10573,25189
+156,Product 156,Electronics,34599,16771
+157,Product 157,Home Appliances,10800,4042
+158,Product 158,Electronics,13559,3921
+159,Product 159,Electronics,37545,11244
+160,Product 160,Clothing,31432,26340
+161,Product 161,Home Appliances,41700,22210
+162,Product 162,Accessories,6201,15997
+163,Product 163,Clothing,41031,6714
+164,Product 164,Home Appliances,28760,20008
+165,Product 165,Home Appliances,15170,16704
+166,Product 166,Accessories,45904,1318
+167,Product 167,Home Appliances,10942,17187
+168,Product 168,Accessories,3497,10052
+169,Product 169,Accessories,5805,6362
+170,Product 170,Clothing,9493,29100
+171,Product 171,Electronics,24436,22517
+172,Product 172,Clothing,6712,11932
+173,Product 173,Clothing,19645,26745
+174,Product 174,Clothing,5967,15537
+175,Product 175,Accessories,39808,26521
+176,Product 176,Kitchen,34567,16668
+177,Product 177,Clothing,30116,23867
+178,Product 178,Clothing,41549,9414
+179,Product 179,Clothing,31847,25384
+180,Product 180,Kitchen,35376,4598
+181,Product 181,Clothing,24723,23643
+182,Product 182,Clothing,46383,16000
+183,Product 183,Home Appliances,19255,27822
+184,Product 184,Home Appliances,42380,22403
+185,Product 185,Electronics,23823,8882
+186,Product 186,Kitchen,8540,18511
+187,Product 187,Accessories,21722,21647
+188,Product 188,Home Appliances,17645,10108
+189,Product 189,Accessories,23877,23122
+190,Product 190,Kitchen,17692,20105
+191,Product 191,Kitchen,43456,25051
+192,Product 192,Clothing,5921,7864
+193,Product 193,Electronics,36022,9911
+194,Product 194,Accessories,6089,27915
+195,Product 195,Clothing,31851,4383
+196,Product 196,Accessories,5527,2028
+197,Product 197,Accessories,1616,21241
+198,Product 198,Clothing,25074,25323
+199,Product 199,Kitchen,15271,9104
+200,Product 200,Accessories,36192,29443

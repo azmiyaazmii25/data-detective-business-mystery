@@ -14,30 +14,20 @@ regions = [
     "Central"
 ]
 
-for i in range(1,10001):
-
+for i in range(1, 10001):
     customers.append({
-
-        "CustomerID":i,
-
-        "Name":fake.name(),
-
-        "Age":random.randint(18,70),
-
-        "Gender":random.choice(["Male","Female"]),
-
-        "Region":random.choice(regions),
-
-        "City":fake.city(),
-
-        "Email":fake.email(),
-
-        "JoinDate":fake.date_between("-5y","today")
-
+        "CustomerID": i,
+        "Name": fake.name(),
+        "Age": random.randint(18, 70),
+        "Gender": random.choice(["Male", "Female"]),
+        "Region": random.choice(regions),
+        "City": fake.city(),
+        "Email": fake.email(),
+        "JoinDate": fake.date_between("-5y", "today")
     })
 
-df=pd.DataFrame(customers)
+df = pd.DataFrame(customers)
 
-df.to_csv("data/generated/customers.csv",index=False)
+df.to_csv("data/generated/customers.csv", index=False)
 
 print("Customers Generated Successfully!")
