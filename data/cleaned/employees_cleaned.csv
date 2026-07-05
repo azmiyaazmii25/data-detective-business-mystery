@@ -1,0 +1,301 @@
+EmployeeID,Name,Gender,Age,Role,StoreID,Region,Salary,JoiningDate,PerformanceScore,IsSuspect
+EMP001,Jason Chatterjee,Male,30,Store Manager,S008,South,56372,2024-11-23,4.98,No
+EMP002,Chakradev Vyas,Female,40,Cashier,S020,North,31636,2016-09-16,4.39,No
+EMP003,Frederick Sehgal,Female,24,Warehouse Staff,S030,West,26141,2022-03-03,2.68,No
+EMP004,Tamanna Setty,Female,22,Store Manager,S046,East,78347,2026-05-19,4.36,No
+EMP005,Tamanna Mani,Female,53,Cashier,S046,East,31200,2025-12-01,3.81,No
+EMP006,Chanakya Datta,Female,55,Sales Executive,S004,East,34218,2016-07-31,4.89,No
+EMP007,Ishaan Tailor,Female,53,Warehouse Staff,S012,North,30962,2018-07-14,3.57,No
+EMP008,Tanay Sengupta,Female,58,Store Manager,S004,South,57444,2021-11-04,3.37,No
+EMP009,Hitesh Bahl,Female,58,Cashier,S031,West,31992,2025-03-18,4.88,No
+EMP010,Faqid Ramakrishnan,Male,22,Cashier,S011,South,32661,2023-07-07,4.2,No
+EMP011,Bachittar Kari,Male,41,Cashier,S030,West,28245,2018-06-11,2.69,No
+EMP012,Abeer Sinha,Female,53,Warehouse Staff,S008,North,21622,2022-06-19,2.51,No
+EMP013,Theodore Palla,Male,48,Sales Executive,S002,North,44991,2024-11-29,3.07,No
+EMP014,Ekavir Bahri,Male,47,Warehouse Staff,S035,Central,23007,2023-09-11,4.26,No
+EMP015,Gagan Bath,Female,36,Store Manager,S041,West,69288,2019-05-24,4.15,No
+EMP016,Daksha Nadkarni,Female,45,Warehouse Staff,S038,Central,26749,2020-03-11,4.82,No
+EMP017,Kavya Mane,Female,34,Store Manager,S036,East,66613,2020-12-08,4.32,No
+EMP018,Robert Iyer,Female,38,Sales Executive,S026,South,35861,2022-11-11,4.28,No
+EMP019,Maanav Bhavsar,Male,36,Store Manager,S018,South,62765,2022-11-07,2.71,No
+EMP020,Maanav Chakraborty,Male,58,Warehouse Staff,S010,Central,31856,2022-05-31,3.64,No
+EMP021,Aayush Patla,Male,32,Sales Executive,S035,North,38548,2021-08-17,4.85,No
+EMP022,Ekta Joshi,Female,54,Cashier,S028,East,27884,2016-10-31,4.0,No
+EMP023,Omkaar Contractor,Male,33,Warehouse Staff,S019,East,24506,2026-04-28,4.12,No
+EMP024,Radha Ray,Male,43,Store Manager,S046,North,76701,2018-07-10,2.7,No
+EMP025,Lucky Bansal,Female,25,Store Manager,S046,South,68734,2016-08-29,3.99,No
+EMP026,Shravya Goda,Female,22,Warehouse Staff,S040,North,26616,2017-11-02,4.05,No
+EMP027,Jai Raj,Male,55,Cashier,S029,North,25903,2020-07-30,3.98,No
+EMP028,Charvi Bhardwaj,Female,25,Store Manager,S001,South,73917,2017-05-15,2.78,No
+EMP029,Om Jhaveri,Female,23,Store Manager,S047,Central,56709,2022-12-15,2.88,No
+EMP030,Yahvi Kamdar,Female,58,Sales Executive,S040,North,39653,2019-08-12,2.95,No
+EMP031,Gopal Edwin,Male,31,Cashier,S025,North,34108,2023-02-15,2.96,No
+EMP032,Advika Mohan,Female,28,Warehouse Staff,S039,Central,22897,2025-11-28,4.09,No
+EMP033,Yatin Vora,Male,33,Sales Executive,S009,East,39973,2021-02-20,3.29,No
+EMP034,Benjamin Sengupta,Female,55,Cashier,S037,North,20135,2024-11-23,4.72,No
+EMP035,Suhani Baria,Female,24,Sales Executive,S047,West,29539,2023-11-19,4.75,No
+EMP036,Madhav Dutta,Male,22,Store Manager,S021,East,60581,2021-09-15,4.97,No
+EMP037,Raksha Patla,Male,42,Cashier,S007,West,29095,2024-09-02,3.55,No
+EMP038,Upkaar Hayre,Female,28,Cashier,S032,South,31729,2024-07-25,4.2,No
+EMP039,Aashi Aggarwal,Female,31,Warehouse Staff,S012,West,21921,2023-06-16,3.03,No
+EMP040,Suhani Mistry,Female,27,Store Manager,S006,Central,72352,2018-11-20,4.46,No
+EMP041,Gagan Sankaran,Male,29,Sales Executive,S017,South,41070,2017-04-03,3.88,No
+EMP042,Ryan Varty,Male,28,Store Manager,S044,South,72498,2018-02-26,2.93,No
+EMP043,Hemangini Mall,Male,47,Store Manager,S050,East,56381,2018-10-21,3.15,No
+EMP044,William Raj,Female,26,Store Manager,S022,East,79523,2024-12-25,4.01,No
+EMP045,Urishilla Dewan,Male,33,Sales Executive,S021,South,36411,2025-09-30,3.27,No
+EMP046,Harish Mander,Male,46,Warehouse Staff,S015,South,30833,2022-07-16,3.14,No
+EMP047,Watika Garde,Male,54,Warehouse Staff,S008,West,29276,2018-01-12,2.51,No
+EMP048,Maanav Chaudhry,Female,51,Warehouse Staff,S039,East,20512,2023-04-25,4.73,No
+EMP049,Gaurav Sandhu,Female,30,Sales Executive,S034,North,27755,2022-05-11,2.97,No
+EMP050,Maanas Dhingra,Male,23,Warehouse Staff,S029,East,27679,2019-01-21,3.68,No
+EMP051,Daniel Kannan,Male,42,Store Manager,S032,East,62297,2025-07-04,2.65,No
+EMP052,Janaki Peri,Female,22,Sales Executive,S031,North,34849,2023-07-27,3.54,No
+EMP053,Charvi Kohli,Female,23,Sales Executive,S007,North,37479,2016-11-06,4.59,No
+EMP054,Daniel Hayre,Female,54,Cashier,S008,West,30382,2021-08-22,4.38,No
+EMP055,Vivaan Choudhary,Male,38,Warehouse Staff,S038,South,22612,2017-10-11,4.13,No
+EMP056,Bhavani Mahajan,Male,52,Sales Executive,S031,East,27728,2026-02-09,4.99,No
+EMP057,Azaan Lad,Female,21,Warehouse Staff,S029,North,22551,2017-04-09,4.99,No
+EMP058,Tripti Tripathi,Female,42,Warehouse Staff,S041,Central,27980,2021-08-12,4.47,No
+EMP059,Varenya Amble,Male,50,Warehouse Staff,S012,West,31878,2016-09-23,2.83,No
+EMP060,Pratyush Rajagopal,Male,39,Store Manager,S050,Central,60830,2026-03-17,3.14,No
+EMP061,Omisha Handa,Female,21,Warehouse Staff,S024,South,18088,2023-06-16,4.25,No
+EMP062,Gunbir Samra,Female,23,Sales Executive,S014,South,30483,2020-12-12,3.64,No
+EMP063,Tejas Khalsa,Female,52,Sales Executive,S020,North,31960,2019-01-20,4.58,No
+EMP064,Alexander Raghavan,Female,47,Warehouse Staff,S018,South,26301,2024-08-15,2.74,No
+EMP065,Baljiwan Dada,Male,45,Store Manager,S044,North,60150,2018-01-10,4.48,No
+EMP066,Nandini Chatterjee,Female,33,Cashier,S031,West,21395,2022-03-29,2.9,No
+EMP067,Siddharth Grover,Female,56,Sales Executive,S027,East,36129,2016-09-02,4.65,No
+EMP068,Krisha Kanda,Female,39,Warehouse Staff,S030,East,23960,2023-07-21,3.74,No
+EMP069,Michael Bansal,Female,45,Store Manager,S029,South,65678,2019-05-23,3.36,No
+EMP070,Ekta Nath,Male,23,Warehouse Staff,S039,East,22081,2021-09-14,3.26,No
+EMP071,Samaksh Muni,Male,44,Store Manager,S012,West,60212,2021-07-28,3.1,No
+EMP072,Ranveer Sharaf,Female,29,Warehouse Staff,S036,South,27708,2024-09-20,4.89,No
+EMP073,Jai Tak,Female,22,Warehouse Staff,S006,East,26291,2021-07-04,3.68,No
+EMP074,Sara Rout,Female,30,Sales Executive,S030,South,30897,2018-11-30,4.75,No
+EMP075,Yashvi Majumdar,Female,56,Cashier,S044,East,33397,2025-12-08,4.14,No
+EMP076,Tarak Patel,Female,29,Store Manager,S015,West,72316,2023-12-24,4.66,No
+EMP077,Gaurika Pradhan,Male,39,Cashier,S019,West,20890,2025-07-15,3.99,No
+EMP078,Kala Chad,Female,25,Warehouse Staff,S032,East,27944,2016-12-12,4.44,No
+EMP079,Siddharth Chacko,Female,48,Warehouse Staff,S048,East,19638,2024-10-04,4.38,No
+EMP080,Ijaya Pillai,Female,37,Sales Executive,S048,West,41232,2017-08-25,3.24,No
+EMP081,Maanav Divan,Male,36,Store Manager,S046,South,64650,2022-03-05,3.83,No
+EMP082,Hiral Das,Female,26,Store Manager,S025,Central,68816,2025-09-16,2.65,No
+EMP083,Daksh Vig,Male,46,Warehouse Staff,S008,Central,22169,2025-10-23,4.29,No
+EMP084,Gaurang Muni,Male,52,Cashier,S042,West,28789,2023-06-29,4.05,No
+EMP085,Onkar Bera,Female,32,Warehouse Staff,S025,South,25604,2021-02-02,2.85,No
+EMP086,Aryan Chandra,Female,34,Store Manager,S027,North,73085,2023-02-24,4.72,No
+EMP087,Guneet Badal,Female,21,Cashier,S008,West,28339,2016-10-13,4.04,No
+EMP088,Anita Mallick,Female,58,Store Manager,S004,North,77437,2022-07-06,3.64,No
+EMP089,Jasmit Sahni,Female,55,Sales Executive,S004,North,43736,2016-12-07,3.93,No
+EMP090,Mason Sani,Male,36,Store Manager,S029,West,71349,2026-06-17,4.61,No
+EMP091,Darsh Dixit,Male,24,Cashier,S036,North,33170,2020-01-01,2.9,No
+EMP092,Robert Bhavsar,Female,42,Store Manager,S024,Central,78008,2021-05-01,2.52,No
+EMP093,Bhavika Sibal,Male,35,Store Manager,S003,West,66913,2017-12-01,3.64,No
+EMP094,Shivani Ratti,Male,37,Store Manager,S026,East,63010,2017-04-12,2.71,No
+EMP095,Andrew Pillay,Female,35,Warehouse Staff,S050,East,27582,2022-11-13,3.03,No
+EMP096,Nikita Talwar,Male,28,Sales Executive,S038,North,44619,2024-06-02,3.3,No
+EMP097,Advaith Gera,Male,48,Warehouse Staff,S023,South,30454,2023-12-22,2.62,Yes
+EMP098,Lavanya Bassi,Male,42,Cashier,S049,Central,24992,2020-05-19,4.98,No
+EMP099,Anay Handa,Male,31,Warehouse Staff,S024,East,19203,2022-01-15,4.38,No
+EMP100,Thomas Iyengar,Female,47,Store Manager,S040,East,66537,2016-12-27,4.71,No
+EMP101,Qasim Chander,Male,51,Cashier,S042,Central,29251,2022-06-20,3.27,No
+EMP102,Saumya Sachdev,Male,44,Sales Executive,S046,North,43308,2019-05-01,4.84,No
+EMP103,Jason Basak,Male,33,Store Manager,S008,Central,56166,2020-03-21,3.87,No
+EMP104,Urvi Pall,Male,52,Warehouse Staff,S019,West,31263,2021-07-30,3.45,No
+EMP105,Ikbal Pall,Male,44,Warehouse Staff,S033,Central,29183,2019-09-20,4.02,No
+EMP106,Yachana Kota,Male,44,Store Manager,S049,North,76609,2025-01-30,3.83,No
+EMP107,Prisha Kalla,Male,35,Warehouse Staff,S014,West,26363,2025-07-15,4.0,No
+EMP108,Nathaniel Chhabra,Female,46,Cashier,S015,North,24114,2023-06-16,3.57,No
+EMP109,Hemani Patla,Male,23,Cashier,S002,East,23844,2018-03-17,3.65,No
+EMP110,Dayamai Sidhu,Male,51,Warehouse Staff,S050,Central,29785,2021-08-24,2.73,No
+EMP111,Gayathri Sodhi,Male,43,Cashier,S004,North,21682,2024-02-11,3.11,No
+EMP112,Aishani Chad,Female,58,Warehouse Staff,S040,East,22565,2025-01-22,3.79,No
+EMP113,Vasudha Bhatt,Female,37,Cashier,S032,South,20030,2026-02-23,3.98,No
+EMP114,Harshil Salvi,Female,43,Cashier,S030,Central,21622,2021-11-03,3.88,No
+EMP115,Oeshi Dua,Male,22,Warehouse Staff,S032,East,27902,2017-08-13,4.98,No
+EMP116,Aryan Rau,Male,57,Warehouse Staff,S016,Central,19374,2026-01-24,3.61,No
+EMP117,Kala Chadha,Female,44,Warehouse Staff,S013,Central,22341,2025-09-09,4.08,No
+EMP118,Indali Gera,Male,51,Sales Executive,S044,Central,33492,2023-02-27,4.5,No
+EMP119,Januja De,Female,24,Cashier,S031,South,30593,2025-02-27,3.37,No
+EMP120,Xalak Subramaniam,Female,28,Cashier,S022,North,33167,2018-10-22,4.69,No
+EMP121,Gaurang Mistry,Female,28,Store Manager,S009,South,56501,2020-11-05,3.39,No
+EMP122,Yug Merchant,Male,31,Store Manager,S009,East,59855,2024-05-31,3.59,No
+EMP123,Max Patel,Male,30,Sales Executive,S037,North,30534,2020-11-22,2.62,No
+EMP124,Reva Khosla,Male,56,Cashier,S017,South,29437,2016-11-03,4.52,No
+EMP125,Sarthak Mital,Female,51,Warehouse Staff,S006,South,25012,2026-03-08,4.9,No
+EMP126,Isaiah Wable,Male,28,Sales Executive,S008,East,40070,2022-04-09,2.63,No
+EMP127,Charles Venkataraman,Female,57,Warehouse Staff,S012,South,22930,2019-10-21,4.41,No
+EMP128,Jeremiah Khanna,Female,37,Cashier,S013,South,29584,2024-01-21,4.71,No
+EMP129,Divya Narayan,Female,46,Cashier,S025,North,28111,2021-04-05,2.52,No
+EMP130,Amara Bajwa,Male,32,Cashier,S041,West,20881,2019-03-08,2.8,No
+EMP131,Omaja Patla,Female,27,Cashier,S024,North,35000,2018-08-09,3.18,No
+EMP132,Hemani Bedi,Female,41,Store Manager,S031,North,66345,2020-10-08,3.3,No
+EMP133,Nathan Palla,Male,27,Sales Executive,S004,South,43204,2020-09-10,2.6,No
+EMP134,Dalaja Lalla,Male,42,Sales Executive,S032,Central,27392,2023-12-15,4.63,No
+EMP135,Champak Wali,Male,47,Sales Executive,S013,West,38788,2020-12-26,4.63,No
+EMP136,Bhavini Merchant,Male,40,Store Manager,S036,East,77665,2022-05-20,2.56,No
+EMP137,Rudra Kapoor,Male,42,Cashier,S050,North,32133,2024-10-24,4.28,No
+EMP138,Nirja Chanda,Female,21,Sales Executive,S049,East,41936,2016-09-30,3.58,No
+EMP139,Ati Pai,Male,55,Sales Executive,S038,North,32932,2026-02-21,4.87,No
+EMP140,Aadi Gole,Female,46,Store Manager,S016,North,58179,2020-11-24,3.36,No
+EMP141,Teerth Magar,Male,35,Sales Executive,S010,West,40086,2019-01-23,3.33,No
+EMP142,Janaki Narayanan,Male,58,Cashier,S010,South,30230,2022-09-11,3.29,No
+EMP143,Yashoda Cheema,Female,25,Warehouse Staff,S038,West,20042,2018-11-28,5.0,No
+EMP144,Yashica Sehgal,Female,57,Cashier,S039,Central,24342,2022-10-21,4.93,No
+EMP145,Girik Nanda,Female,24,Cashier,S011,Central,29140,2021-12-27,4.17,No
+EMP146,Yashoda Saini,Female,46,Warehouse Staff,S005,Central,19291,2024-07-06,2.93,No
+EMP147,Chasmum Bahri,Male,38,Warehouse Staff,S020,North,27477,2023-08-07,3.27,No
+EMP148,Kamya Kalla,Male,21,Cashier,S033,West,27722,2023-03-21,3.55,No
+EMP149,Michael Bhardwaj,Male,26,Warehouse Staff,S038,West,25892,2019-12-03,2.64,No
+EMP150,Ati Halder,Female,37,Sales Executive,S026,South,37277,2025-10-05,4.33,No
+EMP151,Farhan Gole,Female,48,Store Manager,S040,South,76785,2018-11-04,3.05,No
+EMP152,Lipika Ramakrishnan,Male,50,Cashier,S033,North,20003,2018-08-29,4.72,No
+EMP153,Nihal Ahluwalia,Female,58,Cashier,S026,West,24581,2019-02-15,4.66,No
+EMP154,Vasana Chadha,Female,36,Cashier,S029,South,33487,2018-03-04,2.82,No
+EMP155,Janya Sachar,Male,50,Store Manager,S013,North,60135,2023-01-08,3.69,No
+EMP156,Bishakha Taneja,Male,56,Store Manager,S041,South,67697,2017-01-27,4.58,No
+EMP157,Varenya Sur,Female,56,Cashier,S050,East,26970,2018-07-27,4.32,No
+EMP158,Dayita Singh,Male,22,Store Manager,S022,North,72270,2023-09-13,3.24,No
+EMP159,Irya Raju,Female,46,Cashier,S037,North,34439,2017-01-01,3.91,No
+EMP160,Faqid Panchal,Male,40,Cashier,S021,Central,32217,2017-07-03,4.58,No
+EMP161,Leela Jayaraman,Female,29,Store Manager,S010,West,67283,2017-01-25,3.01,No
+EMP162,Qarin Deshmukh,Male,43,Sales Executive,S004,West,26228,2021-04-07,3.54,No
+EMP163,William Modi,Female,28,Sales Executive,S023,North,37406,2020-02-04,4.8,No
+EMP164,Amaira Srinivasan,Female,22,Sales Executive,S049,West,31725,2017-12-09,3.92,No
+EMP165,Isha Bhandari,Male,35,Cashier,S038,East,32986,2019-12-25,3.52,No
+EMP166,Zarna Nagy,Male,41,Warehouse Staff,S025,Central,21754,2016-12-22,4.19,No
+EMP167,Yutika Bhatia,Female,46,Warehouse Staff,S009,Central,24900,2024-09-21,3.8,No
+EMP168,Yashodhara Kumar,Female,47,Sales Executive,S044,North,28339,2019-10-22,4.14,No
+EMP169,Pushti Bains,Female,40,Store Manager,S027,East,67241,2017-08-20,3.22,No
+EMP170,Udarsh Narayanan,Male,44,Sales Executive,S017,East,33690,2020-12-02,4.33,No
+EMP171,Yutika Bir,Female,25,Sales Executive,S002,North,40554,2022-10-16,3.27,No
+EMP172,Vasatika Sood,Female,44,Store Manager,S041,North,78624,2020-09-05,3.2,No
+EMP173,Gayathri Sampath,Male,50,Store Manager,S034,Central,77349,2017-05-03,4.9,No
+EMP174,Anika Mangal,Female,38,Warehouse Staff,S040,South,24605,2020-11-25,3.52,No
+EMP175,Dakshesh Ray,Male,40,Sales Executive,S041,East,28130,2018-12-06,3.3,No
+EMP176,Dakshesh Sarin,Female,37,Sales Executive,S032,West,31169,2017-01-03,3.01,No
+EMP177,Anusha Sheth,Female,24,Sales Executive,S038,North,38609,2021-02-26,3.14,No
+EMP178,Ansh Bhatt,Female,57,Store Manager,S012,North,64307,2017-10-03,4.82,No
+EMP179,Kabir Bala,Male,29,Warehouse Staff,S012,South,22217,2025-06-12,3.85,No
+EMP180,Harita Savant,Male,27,Sales Executive,S021,Central,40795,2024-05-23,3.24,No
+EMP181,Arjun Dugar,Female,50,Store Manager,S004,West,73128,2020-06-16,3.7,No
+EMP182,Sudiksha Bhardwaj,Female,47,Warehouse Staff,S040,East,28708,2023-10-22,4.0,No
+EMP183,Gautam Palla,Male,25,Cashier,S033,Central,30024,2021-05-23,3.79,No
+EMP184,Krishna Choudhury,Female,55,Cashier,S030,East,28750,2023-08-11,4.86,No
+EMP185,Umang Upadhyay,Female,46,Store Manager,S046,West,69584,2021-01-20,4.11,No
+EMP186,Widisha Sarraf,Male,41,Cashier,S011,East,25892,2021-12-05,4.29,No
+EMP187,Krisha Rajagopalan,Female,43,Store Manager,S028,South,60429,2023-11-25,2.58,No
+EMP188,Manya Kade,Male,25,Cashier,S020,Central,33491,2020-09-14,4.18,No
+EMP189,Tanvi Shetty,Male,28,Warehouse Staff,S034,Central,27870,2020-05-26,3.29,No
+EMP190,Keya Nagi,Female,26,Store Manager,S001,East,66952,2025-07-05,4.98,No
+EMP191,Nidra Sachar,Female,27,Sales Executive,S034,Central,28273,2025-07-24,3.25,No
+EMP192,Anusha Rajagopal,Female,49,Store Manager,S048,West,64709,2017-04-24,3.72,No
+EMP193,Priya Garde,Female,39,Cashier,S035,East,32490,2025-08-02,3.01,No
+EMP194,Faris Yogi,Male,30,Warehouse Staff,S007,West,24586,2019-07-06,2.73,No
+EMP195,Ryan Handa,Female,57,Cashier,S037,West,29115,2021-09-17,2.97,No
+EMP196,Ayush Pandya,Male,21,Sales Executive,S049,West,40760,2022-05-19,3.7,No
+EMP197,Peter Mander,Female,26,Store Manager,S004,West,66428,2017-01-22,4.43,No
+EMP198,Aadhya Kar,Female,52,Warehouse Staff,S030,Central,24212,2022-05-11,4.36,No
+EMP199,Matthew Badal,Female,56,Warehouse Staff,S044,East,23551,2022-05-16,4.44,No
+EMP200,Omaja Madan,Male,30,Warehouse Staff,S019,Central,21616,2022-02-18,4.54,No
+EMP201,Jagvi Jha,Male,21,Warehouse Staff,S010,North,19704,2018-03-10,3.83,No
+EMP202,Xiti Naik,Female,53,Warehouse Staff,S011,Central,21722,2019-03-15,3.71,No
+EMP203,Jalsa Sabharwal,Male,52,Store Manager,S045,West,66553,2017-10-22,4.28,No
+EMP204,Oliver Chaudry,Female,47,Cashier,S029,South,25056,2023-04-27,3.9,No
+EMP205,Quincy Dara,Female,23,Sales Executive,S044,North,31499,2025-11-22,3.09,No
+EMP206,Aditya Tailor,Male,31,Store Manager,S001,North,74886,2018-06-27,3.22,No
+EMP207,Yatan Tata,Male,43,Sales Executive,S018,South,42351,2023-01-14,2.92,No
+EMP208,Warhi Ratta,Male,54,Store Manager,S046,West,69541,2019-06-18,3.26,No
+EMP209,Mohini Mukhopadhyay,Male,43,Store Manager,S020,South,60154,2018-08-12,3.14,No
+EMP210,Dalbir Krish,Female,35,Cashier,S019,North,28634,2017-04-23,2.94,No
+EMP211,Veda Vaidya,Female,58,Cashier,S023,Central,24654,2026-06-15,4.94,No
+EMP212,Eiravati Dyal,Male,31,Store Manager,S050,Central,61558,2019-05-22,4.87,No
+EMP213,Varenya Chahal,Female,45,Warehouse Staff,S016,South,21881,2025-10-19,3.89,No
+EMP214,Henry Balasubramanian,Female,35,Store Manager,S038,Central,63374,2025-11-27,3.58,No
+EMP215,Isaiah Ray,Female,57,Store Manager,S009,Central,72579,2020-02-11,4.61,No
+EMP216,Aahana Deshpande,Female,56,Sales Executive,S003,North,37124,2023-07-05,2.61,No
+EMP217,Advaith Garg,Female,27,Warehouse Staff,S036,West,25483,2016-11-08,2.68,No
+EMP218,Amrita Mand,Female,29,Store Manager,S022,North,79755,2024-10-27,3.07,No
+EMP219,Dipta Lata,Male,36,Sales Executive,S038,West,40042,2022-09-07,4.6,No
+EMP220,Laksh Mody,Female,21,Cashier,S032,Central,29706,2019-07-23,4.57,No
+EMP221,Meera Bhattacharyya,Female,39,Warehouse Staff,S012,East,28344,2024-01-11,2.73,No
+EMP222,Brinda Narayanan,Female,39,Sales Executive,S029,South,43971,2018-10-01,3.41,No
+EMP223,Yamini Sinha,Male,52,Cashier,S006,West,34286,2024-03-08,4.17,No
+EMP224,Chavvi Sankaran,Female,47,Cashier,S033,North,21666,2018-04-15,4.63,No
+EMP225,Sudiksha Mallick,Female,22,Warehouse Staff,S011,North,21392,2023-03-01,4.71,No
+EMP226,Nandini Parikh,Female,22,Sales Executive,S001,Central,31764,2017-04-12,3.37,No
+EMP227,Lakshit Sundaram,Male,46,Sales Executive,S034,West,42186,2020-06-24,2.98,No
+EMP228,Rehaan Wable,Male,36,Sales Executive,S009,South,36229,2021-01-08,4.8,No
+EMP229,Saumya Wable,Female,35,Cashier,S042,East,34191,2020-07-04,4.4,No
+EMP230,Triya Bhandari,Male,57,Store Manager,S048,East,75303,2023-02-08,2.87,No
+EMP231,Idika Kapur,Female,25,Warehouse Staff,S015,South,19202,2024-08-09,3.04,No
+EMP232,Kritika Gaba,Male,24,Store Manager,S042,West,73185,2017-06-26,3.88,No
+EMP233,Alka Kadakia,Male,34,Cashier,S028,East,29759,2019-07-14,2.77,No
+EMP234,Avi Sidhu,Male,43,Store Manager,S003,West,70905,2024-04-27,3.51,No
+EMP235,Ekta Tata,Female,33,Sales Executive,S025,West,26354,2024-10-01,4.37,No
+EMP236,Widisha Chadha,Male,27,Cashier,S021,West,21396,2022-01-03,4.91,No
+EMP237,Dayita Chaudhry,Female,45,Cashier,S042,West,27052,2026-06-20,4.11,No
+EMP238,Yochana Krish,Male,35,Cashier,S012,East,21713,2022-03-27,3.62,No
+EMP239,Wridesh Varkey,Female,54,Warehouse Staff,S007,North,21760,2017-05-18,2.82,No
+EMP240,Yug Chana,Male,58,Cashier,S048,East,23922,2022-11-03,4.31,No
+EMP241,Chanchal Sura,Female,42,Cashier,S024,West,28713,2021-05-18,2.73,No
+EMP242,Onkar Kara,Female,38,Cashier,S041,North,23593,2024-05-21,3.58,No
+EMP243,Zarna Konda,Female,57,Warehouse Staff,S016,North,29187,2017-07-10,3.07,No
+EMP244,Harish Narayan,Female,22,Cashier,S007,North,28665,2025-11-19,3.6,No
+EMP245,Hredhaan Chada,Male,33,Warehouse Staff,S025,West,21189,2022-01-25,3.82,No
+EMP246,Ekaraj Koshy,Female,48,Cashier,S029,West,21339,2025-09-08,4.95,No
+EMP247,Geetika Rana,Male,49,Cashier,S022,East,28904,2021-12-22,3.05,No
+EMP248,Hemang Patla,Male,52,Store Manager,S022,Central,63693,2022-03-31,3.38,No
+EMP249,Farhan Sule,Female,56,Store Manager,S021,West,64747,2021-02-11,4.65,No
+EMP250,Xiti Tank,Male,29,Sales Executive,S030,Central,40917,2022-02-02,2.71,No
+EMP251,Ranbir Lad,Male,41,Store Manager,S029,West,72723,2020-05-12,3.97,No
+EMP252,Henry Aggarwal,Male,34,Warehouse Staff,S049,Central,28843,2017-04-23,4.48,No
+EMP253,Laksh Gour,Male,21,Warehouse Staff,S026,West,18238,2017-06-25,3.39,No
+EMP254,Wridesh Tailor,Female,41,Sales Executive,S014,South,34783,2026-03-30,3.18,No
+EMP255,Umang Rama,Female,29,Sales Executive,S007,South,28392,2019-10-24,3.35,No
+EMP256,Naksh Barad,Male,25,Store Manager,S014,North,70176,2024-03-20,4.43,No
+EMP257,Waida Parsa,Male,46,Warehouse Staff,S005,South,31867,2022-05-08,3.68,No
+EMP258,Omisha Wable,Male,56,Store Manager,S004,West,63685,2019-11-01,4.5,No
+EMP259,Hema Munshi,Male,30,Warehouse Staff,S038,South,31407,2022-05-10,4.12,No
+EMP260,Bhavna Dhingra,Male,42,Sales Executive,S003,East,30645,2017-05-09,4.96,No
+EMP261,Bachittar Pathak,Female,42,Sales Executive,S036,East,30891,2017-02-17,3.43,No
+EMP262,Vidhi Memon,Male,53,Store Manager,S015,South,61696,2018-02-06,3.13,No
+EMP263,Ekiya Rana,Male,32,Sales Executive,S046,North,27363,2024-04-02,2.88,No
+EMP264,Hemani Goswami,Male,58,Store Manager,S007,West,59713,2020-05-04,3.72,No
+EMP265,Aishani Doshi,Male,33,Warehouse Staff,S033,South,30405,2019-07-16,4.38,No
+EMP266,Bhavya Puri,Female,25,Cashier,S029,North,32766,2016-07-10,3.99,No
+EMP267,Yash Kala,Female,43,Store Manager,S044,South,60401,2018-03-09,3.07,No
+EMP268,Gayathri Natt,Female,38,Cashier,S001,West,22225,2018-09-21,3.1,No
+EMP269,Ijaya Iyer,Female,46,Warehouse Staff,S004,East,24491,2021-08-11,3.16,No
+EMP270,Zashil Pall,Female,55,Store Manager,S014,Central,55007,2018-03-12,2.88,No
+EMP271,Gaurang Sachdev,Female,51,Sales Executive,S011,South,36379,2024-12-15,4.81,No
+EMP272,Adweta Sabharwal,Male,37,Store Manager,S021,Central,73735,2022-01-28,4.82,No
+EMP273,Dakshesh Ganguly,Male,44,Sales Executive,S042,West,42497,2021-04-01,4.19,No
+EMP274,Charita Golla,Male,37,Store Manager,S014,West,74784,2022-10-11,4.42,No
+EMP275,Jai Badami,Male,42,Cashier,S030,West,25491,2025-11-29,3.77,No
+EMP276,Maanav Arora,Male,51,Warehouse Staff,S006,Central,27833,2019-07-12,3.65,No
+EMP277,Atharv Nigam,Female,39,Warehouse Staff,S011,West,19273,2022-11-18,4.9,No
+EMP278,Wridesh Raghavan,Female,45,Warehouse Staff,S039,East,22129,2026-04-27,3.6,No
+EMP279,Yashawini Uppal,Female,30,Warehouse Staff,S016,Central,18075,2023-04-24,3.61,No
+EMP280,Dalbir Jhaveri,Female,57,Warehouse Staff,S019,Central,20852,2019-07-22,2.58,No
+EMP281,Tarak Setty,Male,32,Store Manager,S049,Central,76128,2023-09-11,4.09,No
+EMP282,Mohini Karnik,Male,25,Warehouse Staff,S013,South,20586,2018-10-20,2.79,No
+EMP283,Yutika Chaudry,Female,26,Warehouse Staff,S041,Central,23019,2024-05-23,2.83,No
+EMP284,Yochana Dutt,Female,42,Warehouse Staff,S046,West,19384,2019-07-31,2.72,No
+EMP285,Noah Goel,Male,39,Sales Executive,S030,Central,39488,2020-05-07,2.69,No
+EMP286,Zinal Deo,Female,58,Store Manager,S039,Central,64491,2017-09-30,3.51,No
+EMP287,Rachit Bumb,Male,35,Cashier,S024,East,28748,2024-12-13,3.93,No
+EMP288,Raagini Atwal,Female,26,Sales Executive,S028,North,29556,2017-01-23,2.52,No
+EMP289,Gauri Sidhu,Female,54,Cashier,S034,East,34187,2025-01-26,3.71,No
+EMP290,Aradhana Sarin,Female,56,Warehouse Staff,S014,South,30709,2018-06-26,4.45,No
+EMP291,Madhav Radhakrishnan,Female,31,Sales Executive,S049,East,33120,2021-04-26,4.0,No
+EMP292,Daksh Bhasin,Female,54,Cashier,S015,East,30579,2024-05-19,3.96,No
+EMP293,Max Ahluwalia,Female,54,Warehouse Staff,S032,North,30359,2018-09-24,3.84,No
+EMP294,Yashoda Agrawal,Male,28,Cashier,S003,East,25488,2024-03-22,2.99,No
+EMP295,Shivani Ramanathan,Female,39,Sales Executive,S027,South,41442,2018-07-27,3.74,No
+EMP296,Kamala Rege,Female,46,Cashier,S042,South,25035,2021-07-01,4.17,No
+EMP297,Ekiya Kakar,Female,33,Store Manager,S004,Central,62570,2017-10-31,4.47,No
+EMP298,Qushi Sunder,Male,36,Store Manager,S048,North,77485,2021-01-11,2.81,No
+EMP299,Nitesh Mandal,Female,45,Store Manager,S031,East,69070,2017-07-18,2.73,No
+EMP300,Maanav Cheema,Female,41,Warehouse Staff,S009,Central,23545,2024-03-06,3.97,No
