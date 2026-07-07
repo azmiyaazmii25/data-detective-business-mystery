@@ -166,7 +166,7 @@ streamlit run streamlit_app/app.py
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
 **Azmiya**
 
